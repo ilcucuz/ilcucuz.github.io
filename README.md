@@ -1,5 +1,4 @@
 # ilcucuz.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>  Sito di Gio Scolari  </title>
